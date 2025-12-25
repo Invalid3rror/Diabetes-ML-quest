@@ -1,5 +1,8 @@
 # Diabetes Prediction Model
 
+## Live Demo
+You can try the deployed Streamlit app here: [https://invalid3rror-diabetes-ml-quest-app.streamlit.app/](https://invalid3rror-diabetes-ml-quest-app.streamlit.app/)
+
 ## Overview
 This project uses a machine learning model to predict the likelihood of diabetes in patients based on medical data. The model is built using an open-source dataset from the National Institute of Diabetes and Digestive and Kidney Diseases, available on Kaggle.
 
